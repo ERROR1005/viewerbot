@@ -25,3 +25,6 @@ typing==3.6.6
 urllib3==1.26.5
 websocket-client==0.55.0
 yarl==1.3.0
+~\viewerbot>python threads_viewer.py https://www.twitch.tv/mkay_officiall2021
+~\viewerbot>python threads_viewer.py  Mkay_officiall2021   80
+
